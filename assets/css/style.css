@@ -1464,3 +1464,8 @@ p.form-message.success.form-message.error, p.form-message.error.form-message.err
   color: #fff;
   background-color: #E84E4E;
 }
+
+/* Flex Justify */
+.justify-center {
+  justify-content: center;
+}
